@@ -1,0 +1,545 @@
+[
+  {
+    "RollNo": "CS-0001",
+    "Gpa": 0.0,
+    "Section": "",
+    "Department": "Computer",
+    "Course": [
+      {
+        "marks": {
+          "Quiz": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          "Assignment": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          "Mid": [
+            0.0,
+            0.0
+          ],
+          "final": 0.0,
+          "TotQuiz": 0,
+          "TotAssignment": 0
+        },
+        "attendance": [
+        ],
+        "CourseName": "DLD",
+        "Grade": "I",
+        "TeacherId": null
+      },
+      {
+        "marks": {
+          "Quiz": [
+            10.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          "Assignment": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "Mid": [
+            0.0,
+            0.0
+          ],
+          "final": 0.0,
+          "TotQuiz": 0,
+          "TotAssignment": 0
+        },
+        "attendance": [
+          {
+            "Date": "14/05/2023",
+            "Status": true
+          },
+          {
+            "Date": "15/05/2023",
+            "Status": true
+          }
+        ],
+        "CourseName": "PF",
+        "Grade": "I",
+        "TeacherId": null
+      },
+      {
+        "marks": {
+          "Quiz": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          "Assignment": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          "Mid": [
+            0.0,
+            0.0
+          ],
+          "final": 0.0,
+          "TotQuiz": 0,
+          "TotAssignment": 0
+        },
+        "attendance": [
+        ],
+        "CourseName": "LA",
+        "Grade": "I",
+        "TeacherId": null
+      },
+      {
+        "marks": {
+          "Quiz": [
+            10.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          "Assignment": [
+            9.0,
+            0.0,
+            0.0
+          ],
+          "Mid": [
+            0.0,
+            0.0
+          ],
+          "final": 0.0,
+          "TotQuiz": 0,
+          "TotAssignment": 0
+        },
+        "attendance": [
+          {
+            "Date": "14/05/2023",
+            "Status": true
+          }
+        ],
+        "CourseName": "ENG",
+        "Grade": "I",
+        "TeacherId": null
+      },
+      {
+        "marks": {
+          "Quiz": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          "Assignment": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          "Mid": [
+            0.0,
+            0.0
+          ],
+          "final": 0.0,
+          "TotQuiz": 0,
+          "TotAssignment": 0
+        },
+        "attendance": [
+        ],
+        "CourseName": "IS",
+        "Grade": "I",
+        "TeacherId": null
+      }
+    ],
+    "FeeStatus": true,
+    "RegDate": "14/05/2023",
+    "Fname": "Mohid",
+    "Lname": "Faraz",
+    "Gender": "Male",
+    "ContactNo": "03207535518",
+    "Qualification": "Intermediate",
+    "BloodGroup": "A+",
+    "Address": "18 U-Block New Haseeb Shaheed Colony",
+    "UserName": "CS-0001",
+    "Password": "CS-0001"
+  },
+  {
+    "RollNo": "CS-0002",
+    "Gpa": 0.0,
+    "Section": "",
+    "Department": "Computer",
+    "Course": [
+      {
+        "marks": {
+          "Quiz": [
+            9.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          "Assignment": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "Mid": [
+            0.0,
+            0.0
+          ],
+          "final": 0.0,
+          "TotQuiz": 0,
+          "TotAssignment": 0
+        },
+        "attendance": [
+          {
+            "Date": "14/05/2023",
+            "Status": true
+          },
+          {
+            "Date": "15/05/2023",
+            "Status": true
+          }
+        ],
+        "CourseName": "PF",
+        "Grade": "A+",
+        "TeacherId": null
+      },
+      {
+        "marks": {
+          "Quiz": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          "Assignment": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          "Mid": [
+            0.0,
+            0.0
+          ],
+          "final": 0.0,
+          "TotQuiz": 0,
+          "TotAssignment": 0
+        },
+        "attendance": [
+        ],
+        "CourseName": "CAL",
+        "Grade": "I",
+        "TeacherId": null
+      },
+      {
+        "marks": {
+          "Quiz": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          "Assignment": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          "Mid": [
+            0.0,
+            0.0
+          ],
+          "final": 0.0,
+          "TotQuiz": 0,
+          "TotAssignment": 0
+        },
+        "attendance": [
+        ],
+        "CourseName": "ENG",
+        "Grade": "I",
+        "TeacherId": null
+      },
+      {
+        "marks": {
+          "Quiz": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          "Assignment": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          "Mid": [
+            0.0,
+            0.0
+          ],
+          "final": 0.0,
+          "TotQuiz": 0,
+          "TotAssignment": 0
+        },
+        "attendance": [
+        ],
+        "CourseName": "PS",
+        "Grade": "I",
+        "TeacherId": null
+      }
+    ],
+    "FeeStatus": false,
+    "RegDate": "14/05/2023",
+    "Fname": "Alizeh",
+    "Lname": "Manzar",
+    "Gender": "Female",
+    "ContactNo": "03204966956",
+    "Qualification": "Intermediate",
+    "BloodGroup": "B+",
+    "Address": "Johar Town, Lahore",
+    "UserName": "CS-0002",
+    "Password": "CS-0002"
+  },
+  {
+    "RollNo": "SE-0001",
+    "Gpa": 0.0,
+    "Section": "",
+    "Department": "Software",
+    "Course": [
+      {
+        "marks": {
+          "Quiz": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          "Assignment": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          "Mid": [
+            0.0,
+            0.0
+          ],
+          "final": 0.0,
+          "TotQuiz": 0,
+          "TotAssignment": 0
+        },
+        "attendance": [
+        ],
+        "CourseName": "PF",
+        "Grade": "F",
+        "TeacherId": null
+      },
+      {
+        "marks": {
+          "Quiz": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          "Assignment": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          "Mid": [
+            0.0,
+            0.0
+          ],
+          "final": 0.0,
+          "TotQuiz": 0,
+          "TotAssignment": 0
+        },
+        "attendance": [
+        ],
+        "CourseName": "LA",
+        "Grade": "I",
+        "TeacherId": null
+      },
+      {
+        "marks": {
+          "Quiz": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          "Assignment": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          "Mid": [
+            0.0,
+            0.0
+          ],
+          "final": 0.0,
+          "TotQuiz": 0,
+          "TotAssignment": 0
+        },
+        "attendance": [
+        ],
+        "CourseName": "CAL",
+        "Grade": "I",
+        "TeacherId": null
+      },
+      {
+        "marks": {
+          "Quiz": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          "Assignment": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          "Mid": [
+            0.0,
+            0.0
+          ],
+          "final": 0.0,
+          "TotQuiz": 0,
+          "TotAssignment": 0
+        },
+        "attendance": [
+        ],
+        "CourseName": "ENG",
+        "Grade": "I",
+        "TeacherId": null
+      },
+      {
+        "marks": {
+          "Quiz": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          "Assignment": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          "Mid": [
+            0.0,
+            0.0
+          ],
+          "final": 0.0,
+          "TotQuiz": 0,
+          "TotAssignment": 0
+        },
+        "attendance": [
+        ],
+        "CourseName": "IS",
+        "Grade": "I",
+        "TeacherId": null
+      }
+    ],
+    "FeeStatus": false,
+    "RegDate": "15/05/2023",
+    "Fname": "Dania",
+    "Lname": "Zemer",
+    "Gender": "Female",
+    "ContactNo": "03216942069",
+    "Qualification": "A-levels",
+    "BloodGroup": "O+",
+    "Address": "Karachi",
+    "UserName": "SE-0001",
+    "Password": "SE-0001"
+  }
+]
